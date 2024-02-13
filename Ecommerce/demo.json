@@ -1,0 +1,43 @@
+[
+    {
+      "title": "Smartphone",
+      "category": "Electronics",
+      "price": 599.99
+    },
+    {
+      "title": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    {
+      "title": "Coffee Maker",
+      "category": "Kitchen Appliances",
+      "price": 49.99
+    },
+    {
+      "title": "Running Shoes",
+      "category": "Sports",
+      "price": 89.99
+    },
+    {
+      "title": "T-shirt",
+      "category": "Clothing",
+      "price": 19.99
+    },
+    {
+      "title": "Apples",
+      "category": "food",
+      "price": 2.99
+    },
+    {
+      "title": "Milk",
+      "category": "food",
+      "price": 3.49
+    },
+    {
+      "title": "Bread",
+      "category": "food",
+      "price": 2.00
+    }
+]
+  
