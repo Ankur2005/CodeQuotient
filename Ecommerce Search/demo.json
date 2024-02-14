@@ -1,0 +1,47 @@
+[
+    {
+      "title": "Wireless Noise Cancelling Headphones",
+      "category": "Electronics",
+      "price": 249.99
+    },
+    {
+      "title": "Smartwatch with Fitness Tracker",
+      "category": "Electronics",
+      "price": 199.99
+    },
+    {
+      "title": "Running Shoes for Men",
+      "category": "cloth",
+      "price": 500
+    },
+    {
+      "title": "Cotton T-Shirt for Women",
+      "category": "cloth",
+      "price": 300
+    },
+    {
+      "title": "Coffee Mug with Inspirational Quote",
+      "category": "Home & Kitchen",
+      "price": 14.99
+    },
+    {
+      "title": "Scented Candle Set",
+      "category": "Home & Kitchen",
+      "price": 29.99
+    },
+    {
+      "title": "Lower",
+      "category": "cloth",
+      "price": 300
+    },
+    {
+      "title": "Board Game for Families",
+      "category": "Books & Media",
+      "price": 39.99
+    },
+    {
+      "title": "Cotton T-Shirt",
+      "category": "cloth",
+      "price": 500
+    }
+  ]

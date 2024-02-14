@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce-search",
+  "version": "1.0.0",
+  "description": "codequotient exercise-2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankur2005/codequotient.git"
+  },
+  "author": "Ankur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankur2005/codequotient/issues"
+  },
+  "homepage": "https://github.com/Ankur2005/codequotient#readme"
+}
