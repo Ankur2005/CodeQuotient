@@ -1,0 +1,43 @@
+
+  {
+    "name": "Alice",
+    "gender": "female",
+    "age": 30
+  },
+  {
+    "name": "Bob",
+    "gender": "male",
+    "age": 25
+  },
+  {
+    "name": "Charlie",
+    "gender": "male",
+    "age": 35
+  },
+  {
+    "name": "Diana",
+    "gender": "female",
+    "age": 28
+  },
+  {
+    "name": "Ankur",
+    "gender": "male",
+    "age": "19"
+  },
+  {
+    "name": "anshul",
+    "gender": "male",
+    "age": "19"
+  },
+  {
+    "name": "abc",
+    "gender": "female",
+    "age": "21"
+  }
+,
+{"name":"divij","gender":"male","age":"20"},
+{"name":"abc","gender":"male","age":"43"},
+{"name":"Ankur","gender":"male","age":"18"},
+{"name":"ankur","gender":"male","age":"18"},
+{"name":"hritvik","gender":"male","age":"20"},
+{"name":"Ankur","gender":"male","age":"18"}
