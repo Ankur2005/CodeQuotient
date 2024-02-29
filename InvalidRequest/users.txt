@@ -43,5 +43,3 @@
 {"name":"Ankur","gender":"male","age":"18"},
 {"name":"akshat","gender":"male","age":"19"},
 {"name":"Ankur","gender":"male","age":"16"},
-{"name":"ghg","gender":"male","age":"12"},
-{"name":"ghg","gender":"male","age":"12"}
